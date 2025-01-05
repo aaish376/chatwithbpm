@@ -10,6 +10,10 @@ const Home = () => {
       <p>
         This platform allows users to upload BPM files, convert them to XML, and
         chat with the BPM using advanced language models.
+        This platform allows users to upload BPM files, convert them to XML, and
+        chat with the BPM using advanced language models.
+        This platform allows users to upload BPM files, convert them to XML, and
+        chat with the BPM using advanced language models.
       </p>
       <button onClick={() => navigate("/upload")}>Upload BPM</button>
     </div>
